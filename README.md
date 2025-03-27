@@ -1,1 +1,1 @@
-# SonarQube
+# Beneficiary
