@@ -82,6 +82,7 @@
                         <path>
                             <groupId>org.projectlombok</groupId>
                             <artifactId>lombok</artifactId>
+                            <version>1.18.24</version> <!-- Se agregó la versión aquí -->
                         </path>
                     </annotationProcessorPaths>
                 </configuration>
@@ -101,7 +102,6 @@
         </plugins>
     </build>
 
-    <!-- Eliminé los repositorios de Spring Snapshots, ya que no los necesitas si usas versiones estables -->
     <repositories>
         <repository>
             <id>spring-milestones</id>
